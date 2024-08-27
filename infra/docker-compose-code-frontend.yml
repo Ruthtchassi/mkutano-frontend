@@ -1,7 +1,7 @@
 ---
 services:
   code-frontend:
-    image: christus/code-frontend:1.0.0
+    image: tchassiruth/code-frontend:1.0.0
     container_name: code-frontend
     ports:
       - 8080:8080
